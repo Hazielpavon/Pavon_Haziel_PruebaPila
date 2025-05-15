@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{59C30524-B0A0-4B9E-936B-FBF01D2A3327}|Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.vcxproj|C:\\Users\\hapav\\Downloads\\ESTRU 1\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59C30524-B0A0-4B9E-936B-FBF01D2A3327}|Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.vcxproj|solutionrelative:Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C30524-B0A0-4B9E-936B-FBF01D2A3327}|Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.vcxproj|C:\\Users\\hapav\\Downloads\\ESTRU 1\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59C30524-B0A0-4B9E-936B-FBF01D2A3327}|Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.vcxproj|solutionrelative:Pavon_Haziel_PruebaPilas\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.h",
+              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\ESTRU 1\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas\\Pila.h",
+              "RelativeDocumentMoniker": "Pavon_Haziel_PruebaPilas\\Pila.h",
+              "ToolTip": "C:\\Users\\hapav\\Downloads\\ESTRU 1\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas\\Pila.h",
+              "RelativeToolTip": "Pavon_Haziel_PruebaPilas\\Pila.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T16:27:54.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.cpp",
               "ToolTip": "C:\\Users\\hapav\\Downloads\\ESTRU 1\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.cpp",
               "RelativeToolTip": "Pavon_Haziel_PruebaPilas\\Pavon_Haziel_PruebaPilas.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T16:14:41.152Z",
               "EditorCaption": ""
